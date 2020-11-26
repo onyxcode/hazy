@@ -20,7 +20,7 @@ window = sg.Window('Hazy - GUI', layout)
 
 while True:
     event, values = window.read()
-    if event == sg.WIN_CLOSED or event == 'Go': # if user closes window or clicks cancel
+    if event == 'Go': # if user clicks Go
         break
     if event == 'Exit':
         exit(0)
@@ -61,5 +61,5 @@ else:
 
     while True:
         event, values = window.read()
-        if event == sg.WIN_CLOSED or event == 'Exit': # if user closes window or clicks cancel
+        if event == sg.WIN_CLOSED or event == 'Exit': # if user closes window or clicks Exit
             break
