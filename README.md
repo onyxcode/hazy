@@ -30,3 +30,18 @@ git clone https://github.com/onyxcode/hazy.git
 gh repo clone onyxcode/hazy
 ```
 Then, cd into the directory and run `python3 app.py`.
+
+
+# Screenshots
+
+## Inital view
+![InitalView.png](screenshots/InitalView.png)
+
+## Typing a location
+![TypingALocation.png](screenshots/TypingALocation.png)
+
+## Displaying the weather
+![TheWeatherItself.png](screenshots/TheWeatherItself.png)
+
+## It took me forever to figure out, but I did manage to implement error handling!
+![WithErrorHandling.png](screenshots/WithErrorHandling.png)
