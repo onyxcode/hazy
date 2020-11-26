@@ -1,0 +1,6 @@
+creds.json
+build/
+dist/
+app.spec
+app
+__pycache__/
