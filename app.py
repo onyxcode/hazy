@@ -34,7 +34,7 @@ except pyowm.commons.exceptions.NotFoundError:
 
     while True:
         event, values = window.read()
-        if event == 'OK':
+        if  event == sg.WIN_CLOSED or event == 'OK':
             exit(0)
 else:
     w = observation.weather
