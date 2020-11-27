@@ -13,7 +13,7 @@ Thank you for the Silver Award on my Reddit post to [r/Python](https://reddit.co
 
 **Attention!** No matter what method you use, make sure you have a creds.json file in the same folder as the app, otherwise it will not run.
 
-Sample config.json file:
+Sample creds.json file:
 
 ```json
 {
