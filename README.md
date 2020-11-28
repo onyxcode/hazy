@@ -1,5 +1,5 @@
 # hazy
-A simple weather GUI program made in Python.
+A simple weather GUI program made in Python using [PySimpleGUI](https://github.com/pysimplegui/pysimplegui) and [pyowm](https://github.com/csparpa/pyowm).
 
 Thank you for the Silver Award on my Reddit post to [r/Python](https://reddit.com/r/python)!
 
